@@ -1,0 +1,2 @@
+# bc-prace
+Bakalarska prace
